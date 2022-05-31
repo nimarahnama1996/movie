@@ -18,7 +18,7 @@ const Header = () => {
     <div className='header'>
        
         <div className='logo'>
-           <Link to='/'>Movie App</Link>
+           <Link to='/' style={{color:'white'}}>Filimo</Link>
            </div>
 
            <div className='search-bar'>
